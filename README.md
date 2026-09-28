@@ -1,6 +1,6 @@
 # Développer avec conscience : éthique, open source et impact
 
-
+![Couverture du cours "Développer avec conscience : éthique, open source et impact"](public/images/dev-conscience.webp)
 
 ## Démarrer
 
