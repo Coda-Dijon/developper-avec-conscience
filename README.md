@@ -28,3 +28,11 @@ public/images/         # images optimisées en WebP (inr/, ethics/, tarot/)
 - `public/images/ethics/` : visuels du support « Developers ethics ».
 - `public/images/tarot/` : cartes du [Tarot de la Tech](https://tarotcardsoftech.artefactgroup.com/) d'Artefact.
 - `public/images/craftsman-*.webp` : infographie *The Software Craftsman*.
+
+## Licence
+
+Ce cours est publié sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (voir [LICENSE](LICENSE)), à l'exception des contenus tiers listés ci-dessus, qui restent sous leur propre licence.
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" alt="Licence CC BY-SA 4.0 : Attribution, Partage dans les mêmes conditions"></a>
+</p>
