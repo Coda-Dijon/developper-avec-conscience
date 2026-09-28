@@ -22,7 +22,6 @@ layout: cover
 Éthique, open source et impact
 
 <div class="mt-8 flex gap-4">
-  <Sticker color="magenta">6h</Sticker>
   <Sticker color="blue" :rotate="3">4 objectifs</Sticker>
   <Sticker color="lavender" :rotate="-2">1 charte</Sticker>
 </div>
