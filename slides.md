@@ -26,6 +26,8 @@ layout: cover
   <Sticker color="lavender" :rotate="-2">1 charte</Sticker>
 </div>
 
+<img src="/images/dev-conscience-perso.webp" alt="Personnage en bitmoji façon Morpheus de Matrix, lunettes noires et long manteau, tendant une pilule bleue dans une main et une pilule rouge dans l'autre" class="absolute right-16 bottom-0 h-[92%]" />
+
 ---
 
 # Au programme

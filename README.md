@@ -20,7 +20,6 @@ components/            # composants neobrutal réutilisables
 layouts/section.vue    # slide d'ouverture de séquence
 styles/index.css       # thème neobrutal (couleurs, bordures, ombres)
 public/images/         # images optimisées en WebP (inr/, ethics/, tarot/)
-docs/plan.md           # plan pédagogique détaillé
 ```
 
 ## Images et licences
