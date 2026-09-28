@@ -1,0 +1,27 @@
+README.md
+  h_0a88d9aba8622a 3
+slides.md
+  s_487a5817faf0f6::t_c144f8de0d29e8 30
+  s_487a5817faf0f6::t_fa83557058694f 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9b5f56a43424442b6ca7f8881289ac983712b68f",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_487a5817faf0f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc1341a9-a7a9-48f3-a79d-38ade20f5ba1",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
