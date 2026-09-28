@@ -1,0 +1,23 @@
+LICENSE
+  s_487a5817faf0f6::t_6d533425dfcde6 1-445
+README.md
+  s_487a5817faf0f6::t_0a4be82ab1c94a 35-38
+  s_487a5817faf0f6::t_cb4d8dc02cb9d4 30,32-34
+  s_487a5817faf0f6::t_495f68371bd26b 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "daf88f50e923f2666488396f4a9172ded6913b45",
+  "prompts": {},
+  "sessions": {
+    "s_487a5817faf0f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc1341a9-a7a9-48f3-a79d-38ade20f5ba1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
