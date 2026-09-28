@@ -10,11 +10,16 @@ const props = defineProps<{
   bare?: boolean
   tilt?: 'l' | 'r'
 }>()
+
+// Préfixe les chemins absolus avec la base (ex. /developper-avec-conscience/ sur GitHub Pages)
+const resolvedSrc = props.src.startsWith('/')
+  ? import.meta.env.BASE_URL + props.src.slice(1)
+  : props.src
 </script>
 
 <template>
   <figure class="nb-figure" :class="[{ 'is-bare': props.bare }, props.tilt ? `nb-tilt-${props.tilt}` : '']">
-    <img :src="props.src" :alt="props.alt" :style="{ maxHeight: props.h ?? '20rem' }" loading="lazy">
+    <img :src="resolvedSrc" :alt="props.alt" :style="{ maxHeight: props.h ?? '20rem' }" loading="lazy">
     <figcaption v-if="props.caption">{{ props.caption }}</figcaption>
   </figure>
 </template>
