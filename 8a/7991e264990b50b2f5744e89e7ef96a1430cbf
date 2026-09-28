@@ -1,0 +1,21 @@
+components/Figure.vue
+  s_487a5817faf0f6::t_ec1dde4de4154b 13-17,22
+.github/workflows/deploy.yml
+  s_487a5817faf0f6::t_ec1dde4de4154b 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8a7991e264990b50b2f5744e89e7ef96a1430cbf",
+  "prompts": {},
+  "sessions": {
+    "s_487a5817faf0f6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fc1341a9-a7a9-48f3-a79d-38ade20f5ba1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
