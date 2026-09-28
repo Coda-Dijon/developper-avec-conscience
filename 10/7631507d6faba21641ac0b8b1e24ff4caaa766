@@ -1,0 +1,17 @@
+README.md
+  h_0a88d9aba8622a 3
+  h_0a88d9aba8622a 31
+resources/Artefact-Tarot-Cards-of-Tech_downloadable_FR.pdf
+  h_0a88d9aba8622a 1-34563
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "107631507d6faba21641ac0b8b1e24ff4caaa766",
+  "prompts": {},
+  "humans": {
+    "h_0a88d9aba8622a": {
+      "author": "Yoan Thirion <yoan.thirion@gmail.com>"
+    }
+  }
+}
